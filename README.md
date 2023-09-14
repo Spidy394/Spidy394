@@ -71,6 +71,6 @@ I'm always eager to connect with fellow coders and learners. Feel free to reach 
 </div>
 
 
-<h4 align="center">Let's learn and code together! 🤝🤍 </h4>
+<h3 align="center">Let's learn and code together! 🤝🤍 </h3>
 
 #
