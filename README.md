@@ -22,7 +22,7 @@
 ###
 
 ## 💻 My Skills
-### **👨‍💻 Programming Languages**: C (Currently Learning)
+### **👨‍💻 Programming Languages**:
 ![language icons](https://skillicons.dev/icons?i=c)
 ### **🛠 Tools & Technologies**:
 ![tools icons](https://skillicons.dev/icons?i=git,github,vscode)
@@ -33,7 +33,7 @@
 ## 🌟 Projects
 I'm working on a project to practice and apply my coding skills.:
 
-📌 **[Let-Us-C](https://github.com/Spidy394/Let-us-C.git)** : I am building this repo along side my friend [Souvik Nath](https://github.com/souvik3069), where we are solving the exercies of the book "Let Us C" sidewise learning C and understanding the uses of git and github also.
+📌 **[Let-Us-C](https://github.com/Spidy394/Let-us-C.git)** : I am building this repositorie along side my friend [Souvik Nath](https://github.com/souvik3069), where we are solving the exercies of the book "Let Us C" sidewise learning C and understanding the uses of git and github also.
 
 #### 🧧 Feel free to explore my repositories to see more of my work!
 
