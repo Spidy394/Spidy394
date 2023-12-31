@@ -38,7 +38,7 @@
 #### ☎ I'm always eager to connect with fellow coders and learners. Feel free to reach out to me on:
 <br>
 <div align="center">
-  <a href="https://www.linkedin.com/in/shubhodeep-mondal-428403216/" target="_blank">
+  <a href="https://www.linkedin.com/in/shubho-deep" target="_blank">
     <img src="https://cdn.simpleicons.org/linkedin/0A66C2" height="40" alt="LinkedIn Logo" />
   </a>&nbsp;&nbsp;&nbsp;
   <a href="https://twitter.com/0Shubhodee65108" target="_blank">
