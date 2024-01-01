@@ -22,6 +22,7 @@
 ![Git](https://skillicons.dev/icons?i=git)
 ![GitHub](https://skillicons.dev/icons?i=github)
 ![VSCode](https://skillicons.dev/icons?i=vscode)
+![HTML,CSS](https://skillicons.dev/icons?i=html,css)
 
 ### **🎯 Problem Solving**: Data Structures and Algorithms
 
