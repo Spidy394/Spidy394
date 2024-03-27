@@ -30,7 +30,7 @@
 
 #### 🎐 I'm working on a project to practice and apply my coding skills:
 
-📌 **[Let-Us-C](https://github.com/Spidy394/Let-us-C.git)**: I am building this repository alongside my friend [Souvik Nath](https://github.com/souvik3069), where we are solving the exercises of the book "Let Us C" side by side while learning C and understanding the uses of Git and GitHub.
+<!-- 📌 **[Let-Us-C](https://github.com/Spidy394/Let-us-C.git)**: I am building this repository alongside my friend [Souvik Nath](https://github.com/souvik3069), where we are solving the exercises of the book "Let Us C" side by side while learning C and understanding the uses of Git and GitHub. -->
 
 #### 🧧 Feel free to explore my repositories to see more of my work!
 
