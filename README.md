@@ -4,14 +4,14 @@
   <img height="150" src="https://media.tenor.com/IMNDZBkct8gAAAAC/anime-girl.gif"  />
 </div>
 <br>
-<p align="center">✨ I'm a passionate and enthusiastic student from India who is diving into the world of coding. Currently, I'm learning C and exploring the vast realm of programming. I'm excited to share my journey and projects with you along the way. 🎑</p>
+<p align="center">✨ I'm a passionate and enthusiastic student from India who is diving into the world of coding. Currently, I'm learning C and exploring the vast realm of programming. I'm excited to share my journey and projects along the way. 🎑</p>
 
 ## 🚀 What am I doing 
 
-- 🌱 Learning C and the fundamentals of computer science.
+- 🌱 Learning the fundamentals of computer science.
 - 💡  Exploring different programming languages and technologies.
 - 🧠 Building a strong foundation in problem-solving and algorithmic thinking.
-- 🎓 Pursuing B-tech in Electronics and Instrumentation from University Of Kalyani.
+- 🎓 Pursuing B-tech in Electronics and Instrumentation from the University Of Kalyani.
 
 ## 💻 My Skills
 
