@@ -16,7 +16,7 @@
 ## 💻 My Skills
 
 ### **👨‍💻 Programming Languages**:
-![C,Pyhton](https://skillicons.dev/icons?i=c,python)
+![C,Cpp, Pyhton](https://skillicons.dev/icons?i=c,cpp,python)
 
 ### **🛠 Tools & Technologies**:
 ![Git](https://skillicons.dev/icons?i=git)
