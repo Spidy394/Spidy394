@@ -63,8 +63,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Spidy394&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"/>
   <img src="https://streak-stats.demolab.com?user=Spidy394&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"/> 
   <br>
-  <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/64a55098ec22530247ef20df?variant=dark" alt="roadmap.sh"/></a>
-</div>
+  <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/64a55098ec22530247ef20df?variant=dark&roadmaps=full-stack%2Cfrontend" alt="roadmap.sh"/></a>
 
 <h3 align="center">Let's learn and code together! 🤝🤍 </h3>
 
