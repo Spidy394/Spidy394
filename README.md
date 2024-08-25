@@ -11,7 +11,7 @@
 - 🌱 Learning the fundamentals of computer science.
 - 💡  Exploring different programming languages and technologies.
 - 🧠 Building a strong foundation in problem-solving and algorithmic thinking.
-- 🎓 Pursuing B-tech in Electronics and Instrumentation from the University Of Kalyani.
+- 🎓 Pursuing B-tech.
 
 ## 💻 My Skills
 
