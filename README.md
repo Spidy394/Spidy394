@@ -64,8 +64,12 @@
   <img src="https://streak-stats.demolab.com?user=Spidy394&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"/> 
   <br>
   <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/64a55098ec22530247ef20df?variant=dark&roadmaps=full-stack%2Cfrontend" alt="roadmap.sh"/></a>
+  <br>
+  <a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=Spidy394&label=Profile%20Views&color=4&icon=5&pretty=true" />
+</a>
 
-  ## GSSOC(24) Badges 🪶
+  ## GSSoC(24) Badges 🪶
 <div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
 <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100px" height="100px" />
