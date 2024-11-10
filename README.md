@@ -59,16 +59,19 @@
 #
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Spidy394&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Spidy394&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"/>
-  <img src="https://streak-stats.demolab.com?user=Spidy394&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"/> 
-  <br>
-  <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/64a55098ec22530247ef20df?variant=dark&roadmaps=full-stack%2Cfrontend" alt="roadmap.sh"/></a>
-  <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=Spidy394&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=Spidy394&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Spidy394&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+<br>
+<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/64a55098ec22530247ef20df?variant=dark&roadmaps=full-stack%2Cfrontend" alt="roadmap.sh"/></a>
+  <br><br>
   <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=Spidy394&label=Profile%20Views&color=4&icon=5&pretty=true" />
 </a>
 
+
+###
+  
   ## GSSoC'24 Badges 🪶
 <div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
 <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
