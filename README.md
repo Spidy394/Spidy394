@@ -51,7 +51,7 @@
   <a href="https://www.instagram.com/shubho_deep_09/" target="_blank">
     <img src="https://cdn.simpleicons.org/instagram/E4405F" height="40" alt="Instagram Logo" />
   </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://discord.gg/GB2WCpNqdY" target="_blank">
+  <a href="https://discord.gg/VamuScPDpp" target="_blank">
     <img src="https://cdn.simpleicons.org/discord/5865F2" height="40" alt="Discord Logo" />
   </a>
 </div>
