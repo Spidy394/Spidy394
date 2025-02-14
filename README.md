@@ -19,7 +19,7 @@
 ![C, Cpp, Pyhton, JS](https://skillicons.dev/icons?i=c,cpp,python,js)
 
 ### **🖼 Frontend Development**:
-![HTML,CSS](https://skillicons.dev/icons?i=html,css)
+![HTML,CSS](https://skillicons.dev/icons?i=html,css,react,tailwindcss)
 
 ### **🔧 Backend Development**:
 ![NodeJS,Express,MongoDB](https://skillicons.dev/icons?i=nodejs,express,mongodb)
