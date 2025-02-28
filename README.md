@@ -48,8 +48,6 @@
 <br>
 <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/64a55098ec22530247ef20df?variant=dark&roadmaps=full-stack%2Cfrontend" alt="roadmap.sh"/></a>
   <br><br>
-  <a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=Spidy394&label=Profile%20Views&color=4&icon=5&pretty=true" />
 </a>
 
 <h2 align="left">📫 Let's Connect</h2>
