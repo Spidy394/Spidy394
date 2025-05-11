@@ -29,6 +29,10 @@
 ![GitHub](https://skillicons.dev/icons?i=github)
 ![VSCode](https://skillicons.dev/icons?i=vscode)
 
+### **🖥️ Operating System**
+![Windows](https://skillicons.dev/icons?i=windows)
+![Arch Linux](https://skillicons.dev/icons?i=arch)
+
 ### **🎯 Problem Solving**: Data Structures and Algorithms
 
 ## 🌟 Projects
@@ -56,7 +60,7 @@
 <br>
 <div align="center">
   <a href="https://www.linkedin.com/in/shubho-deep" target="_blank">
-    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" height="40" alt="LinkedIn Logo" />
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn Logo" />
   </a>&nbsp;&nbsp;&nbsp;
   <a href="https://twitter.com/shubho_deep_09" target="_blank">
     <img src="https://cdn.simpleicons.org/X/1DA1F2" height="40" alt="Twitter Logo" />
@@ -67,7 +71,7 @@
   <a href="https://www.instagram.com/shubho_deep_09/" target="_blank">
     <img src="https://cdn.simpleicons.org/instagram/E4405F" height="40" alt="Instagram Logo" />
   </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://discord.gg/VamuScPDpp" target="_blank">
+  <a href="https://discordapp.com/users/733591282441781310" target="_blank">
     <img src="https://cdn.simpleicons.org/discord/5865F2" height="40" alt="Discord Logo" />
   </a>
 </div>
