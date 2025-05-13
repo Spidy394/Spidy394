@@ -16,10 +16,10 @@
 ## 💻 Skills
 
 ### **👨‍💻 Programming Languages**:
-![C, Cpp, Pyhton, JS, TS](https://skillicons.dev/icons?i=c,cpp,python,js,ts)
+![C,Cpp,Pyhton,JS,TS](https://skillicons.dev/icons?i=c,cpp,python,js,ts)
 
 ### **🖼 Frontend Development**:
-![HTML,CSS](https://skillicons.dev/icons?i=html,css,react,tailwindcss)
+![HTML,CSS,React,TailwindCSS](https://skillicons.dev/icons?i=html,css,react,tailwindcss)
 
 ### **🔧 Backend Development**:
 ![NodeJS,Express,MongoDB](https://skillicons.dev/icons?i=nodejs,express,mongodb)
