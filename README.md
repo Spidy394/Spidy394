@@ -16,7 +16,7 @@
 ## 💻 Skills
 
 ### **👨‍💻 Programming Languages**:
-![C, Cpp, Pyhton, JS](https://skillicons.dev/icons?i=c,cpp,python,js)
+![C, Cpp, Pyhton, JS, TS](https://skillicons.dev/icons?i=c,cpp,python,js,ts)
 
 ### **🖼 Frontend Development**:
 ![HTML,CSS](https://skillicons.dev/icons?i=html,css,react,tailwindcss)
