@@ -50,9 +50,6 @@
   <img src="https://streak-stats.demolab.com?user=Spidy394&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Spidy394&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 <br>
-<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/64a55098ec22530247ef20df?variant=dark&roadmaps=full-stack%2Cfrontend" alt="roadmap.sh"/></a>
-  <br><br>
-</a>
 
 <h2 align="left">📫 Let's Connect</h2>
 
@@ -74,18 +71,6 @@
   <a href="https://discordapp.com/users/733591282441781310" target="_blank">
     <img src="https://cdn.simpleicons.org/discord/5865F2" height="40" alt="Discord Logo" />
   </a>
-</div>
-  
-<h2 align="left">GSSoC'24 Badges 🪶</h2>
-
-<div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
-<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/6.png" width="105px" height="105px" />
 </div>
 
 <h3 align="center">Let's learn and code together! 🤝🤍 </h3>
