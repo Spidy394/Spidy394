@@ -19,7 +19,7 @@
 ![C,Cpp,Pyhton,JS,TS](https://skillicons.dev/icons?i=c,cpp,python,js,ts)
 
 ### **🖼 Frontend Development**:
-![HTML,CSS,React,TailwindCSS](https://skillicons.dev/icons?i=html,css,react,tailwindcss)
+![HTML,CSS,React,TailwindCSS,Nextjs](https://skillicons.dev/icons?i=html,css,react,tailwindcss,nextjs)
 
 ### **🔧 Backend Development**:
 ![NodeJS,Express,MongoDB](https://skillicons.dev/icons?i=nodejs,express,mongodb)
@@ -28,6 +28,10 @@
 ![Git](https://skillicons.dev/icons?i=git)
 ![GitHub](https://skillicons.dev/icons?i=github)
 ![VSCode](https://skillicons.dev/icons?i=vscode)
+![Postman](https://skillicons.dev/icons?i=postman)
+![Docker](https://skillicons.dev/icons?i=docker)
+![npm](https://skillicons.dev/icons?i=npm)
+![Pnpm](https://skillicons.dev/icons?i=pnpm)
 
 ### **🖥️ Operating System**
 ![Windows](https://skillicons.dev/icons?i=windows)
