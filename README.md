@@ -25,13 +25,7 @@
 ![NodeJS,Express,MongoDB](https://skillicons.dev/icons?i=nodejs,express,mongodb,fastapi)
 
 ### **🛠 Tools & Technologies**:
-![Git](https://skillicons.dev/icons?i=git)
-![GitHub](https://skillicons.dev/icons?i=github)
-![VSCode](https://skillicons.dev/icons?i=vscode)
-![Postman](https://skillicons.dev/icons?i=postman)
-![Docker](https://skillicons.dev/icons?i=docker)
-![npm](https://skillicons.dev/icons?i=npm)
-![Pnpm](https://skillicons.dev/icons?i=pnpm)
+![Git,GitHub,VSCode,Postman,Docker,npm,pnpm](https://skillicons.dev/icons?i=git,github,vscode,postman,docker,npm,pnpm)
 
 ### **🖥️ Operating System**
 ![Windows](https://skillicons.dev/icons?i=windows)
