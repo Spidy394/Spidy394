@@ -22,7 +22,7 @@
 ![HTML,CSS,React,TailwindCSS,Nextjs](https://skillicons.dev/icons?i=html,css,react,tailwindcss,nextjs)
 
 ### **🔧 Backend Development**:
-![NodeJS,Express,MongoDB](https://skillicons.dev/icons?i=nodejs,express,mongodb)
+![NodeJS,Express,MongoDB](https://skillicons.dev/icons?i=nodejs,express,mongodb,fastapi)
 
 ### **🛠 Tools & Technologies**:
 ![Git](https://skillicons.dev/icons?i=git)
