@@ -28,7 +28,7 @@
 ![MongoDB](https://skillicons.dev/icons?i=mongodb,postgres)
 
 ### **☸️ DevOps**:
-![Docker,Vercel,Render](https://skillicons.dev/icons?i=docker,vercel,render)
+![Docker,Vercel,Render](https://skillicons.dev/icons?i=docker,vercel)‎ ‎ ‎![Render](https://skills.syvixor.com/api/icons?i=render)
 
 ### **🛠 Tools & Technologies**:
 ![Git,GitHub,VSCode,Postman,npm,pnpm](https://skillicons.dev/icons?i=git,github,vscode,postman,npm,pnpm)
