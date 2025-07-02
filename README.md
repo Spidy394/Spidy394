@@ -22,10 +22,16 @@
 ![HTML,CSS,React,TailwindCSS,Nextjs](https://skillicons.dev/icons?i=html,css,react,tailwindcss,nextjs)
 
 ### **🔧 Backend Development**:
-![NodeJS,Express,MongoDB](https://skillicons.dev/icons?i=nodejs,express,mongodb,fastapi)
+![NodeJS,Express,FastAPI](https://skillicons.dev/icons?i=nodejs,express,fastapi)
+
+### **🗃️ Database**:
+![MongoDB](https://skillicons.dev/icons?i=mongodb,postgres)
+
+### **☸️ DevOps**:
+![Docker,Vercel,Render](https://skillicons.dev/icons?i=docker,vercel,render)
 
 ### **🛠 Tools & Technologies**:
-![Git,GitHub,VSCode,Postman,Docker,npm,pnpm](https://skillicons.dev/icons?i=git,github,vscode,postman,docker,npm,pnpm)
+![Git,GitHub,VSCode,Postman,npm,pnpm](https://skillicons.dev/icons?i=git,github,vscode,postman,npm,pnpm)
 
 ### **🖥️ Operating System**
 ![Windows](https://skillicons.dev/icons?i=windows)
