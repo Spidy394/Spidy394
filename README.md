@@ -6,34 +6,41 @@
 <br>
 <p align="center">✨ I'm a passionate and enthusiastic student from India who is diving into the world of coding. I'm excited to share my journey and projects along the way. 🎑</p>
 
-## 🚀 What am I doing 
+## 🚀 What am I doing
 
 - 🌱 Learning the fundamentals of computer science.
-- 💡  Exploring different programming languages and technologies.
+- 💡 Exploring different programming languages and technologies.
 - 🧠 Building a strong foundation in problem-solving and algorithmic thinking.
 - 🎓 Pursuing B-Tech in Information Technology.
 
 ## 💻 Skills
 
 ### **👨‍💻 Programming Languages**:
+
 ![C,Cpp,Pyhton,JS,TS](https://skillicons.dev/icons?i=c,cpp,python,js,ts)
 
 ### **🖼 Frontend Development**:
+
 ![HTML,CSS,React,TailwindCSS,Nextjs](https://skillicons.dev/icons?i=html,css,react,tailwindcss,nextjs)
 
 ### **🔧 Backend Development**:
+
 ![NodeJS,Express,FastAPI](https://skillicons.dev/icons?i=nodejs,express,fastapi)
 
 ### **🗃️ Database**:
+
 ![MongoDB](https://skillicons.dev/icons?i=mongodb,postgres)
 
 ### **☸️ DevOps**:
+
 ![Docker,Vercel,Render](https://skillicons.dev/icons?i=docker,vercel)‎ ‎ ‎![Render](https://skills.syvixor.com/api/icons?i=render)
 
 ### **🛠 Tools & Technologies**:
+
 ![Git,GitHub,VSCode,Postman,npm,pnpm](https://skillicons.dev/icons?i=git,github,vscode,postman,npm,pnpm)
 
 ### **🖥️ Operating System**
+
 ![Windows](https://skillicons.dev/icons?i=windows)
 ![Arch Linux](https://skillicons.dev/icons?i=arch)
 
@@ -42,8 +49,6 @@
 ## 🌟 Projects
 
 #### 🎐 I'm working on a project to practice and apply my coding skills:
-
-
 
 #### 🧧 Feel free to explore my repositories to see more of my work!
 
@@ -58,22 +63,22 @@
 <h2 align="left">📫 Let's Connect</h2>
 
 #### ☎ I'm always eager to connect with fellow coders and learners. Feel free to reach out to me on:
-<br>
+
 <div align="center">
   <a href="https://www.linkedin.com/in/shubho-deep" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn Logo" />
-  </a>&nbsp;&nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=linkedin" height="30" alt="LinkedIn Logo" />
+  </a>&nbsp;&nbsp;
   <a href="https://twitter.com/shubho_deep_09" target="_blank">
-    <img src="https://cdn.simpleicons.org/X/1DA1F2" height="40" alt="Twitter Logo" />
-  </a>&nbsp;&nbsp;&nbsp;
+    <img src="https://cdn.simpleicons.org/X/1DA1F2" height="30" alt="Twitter Logo" />
+  </a>&nbsp;&nbsp;
   <a href="https://www.facebook.com/shubho.deep.16" target="_blank">
-    <img src="https://cdn.simpleicons.org/facebook/1877F2" height="40" alt="Facebook Logo" />
-  </a>&nbsp;&nbsp;&nbsp;
+    <img src="https://cdn.simpleicons.org/facebook/1877F2" height="30" alt="Facebook Logo" />
+  </a>&nbsp;&nbsp;
   <a href="https://www.instagram.com/shubho_deep_09/" target="_blank">
-    <img src="https://cdn.simpleicons.org/instagram/E4405F" height="40" alt="Instagram Logo" />
-  </a>&nbsp;&nbsp;&nbsp;
+    <img src="https://cdn.simpleicons.org/instagram/E4405F" height="30" alt="Instagram Logo" />
+  </a>&nbsp;&nbsp;
   <a href="https://discordapp.com/users/733591282441781310" target="_blank">
-    <img src="https://cdn.simpleicons.org/discord/5865F2" height="40" alt="Discord Logo" />
+    <img src="https://cdn.simpleicons.org/discord/5865F2" height="30" alt="Discord Logo" />
   </a>
 </div>
 
