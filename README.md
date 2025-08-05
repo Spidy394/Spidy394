@@ -46,10 +46,6 @@
 
 ### **🎯 Problem Solving**: Data Structures and Algorithms
 
-## 🌟 Projects
-
-#### 🎐 I'm working on a project to practice and apply my coding skills:
-
 #### 🧧 Feel free to explore my repositories to see more of my work!
 
 ## 📊 GitHub Statistics and Contributions
