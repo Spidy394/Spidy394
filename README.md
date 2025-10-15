@@ -29,11 +29,11 @@
 
 ### **🗃️ Database**:
 
-![MongoDB](https://skillicons.dev/icons?i=mongodb,postgres)
+![MongoDB](https://skillicons.dev/icons?i=mongodb,postgres,prisma)![neon](https://skills.syvixor.com/api/icons?i=neon)
 
 ### **☸️ DevOps**:
 
-![Docker,Vercel,Render](https://skillicons.dev/icons?i=docker,vercel)‎ ‎ ‎![Render](https://skills.syvixor.com/api/icons?i=render)
+![Docker,Vercel](https://skillicons.dev/icons?i=docker,vercel)‎ ‎ ‎![Render](https://skills.syvixor.com/api/icons?i=render)
 
 ### **🛠 Tools & Technologies**:
 
