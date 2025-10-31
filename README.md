@@ -56,6 +56,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Spidy394&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 <br>
 
+[![An image of @spidy394's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/spidy394)](https://holopin.io/@spidy394)
+
 <h2 align="left">📫 Let's Connect</h2>
 
 #### ☎ I'm always eager to connect with fellow coders and learners. Feel free to reach out to me on:
