@@ -25,7 +25,7 @@
 
 ### **🔧 Backend Development**:
 
-![NodeJS,Express,FastAPI](https://skillicons.dev/icons?i=nodejs,express,fastapi)
+![NodeJS,Express,FastAPI](https://skillicons.dev/icons?i=nodejs,express,fastapi,bun)
 
 ### **🗃️ Database**:
 
