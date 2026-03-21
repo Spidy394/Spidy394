@@ -29,7 +29,7 @@
 
 ### **🗃️ Database**:
 
-![MongoDB](https://skillicons.dev/icons?i=mongodb,postgres,prisma)![neon](https://skills.syvixor.com/api/icons?i=neon)
+![MongoDB](https://skillicons.dev/icons?i=mongodb,postgres,prisma)![neon](https://skills.syvixor.com/api/icons?i=neon,redis)
 
 ### **☸️ DevOps**:
 
@@ -44,7 +44,7 @@
 ![Windows](https://skillicons.dev/icons?i=windows)
 ![Arch Linux](https://skillicons.dev/icons?i=arch)
 
-### **🎯 Problem Solving**: Data Structures and Algorithms
+<!-- ### **🎯 Problem Solving**: Data Structures and Algorithms -->
 
 #### 🧧 Feel free to explore my repositories to see more of my work!
 
