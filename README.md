@@ -29,7 +29,7 @@
 
 ### **🗃️ Database**:
 
-![MongoDB](https://skillicons.dev/icons?i=mongodb,postgres,prisma)![neon](https://skills.syvixor.com/api/icons?i=neon,redis)
+![MongoDB](https://skillicons.dev/icons?i=mongodb,postgres,prisma)![neon](https://skills.syvixor.com/api/icons?i=neon,redis,drizzle)
 
 ### **☸️ DevOps**:
 
